@@ -1,88 +1,106 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Niraj Nillawar</h1>
-<h3 align="center">🚀 Full Stack Developer | Tech Enthusiast | Problem Solver</h3>
+<h1 align="center">Hey 👋, I'm Niraj Nillawar</h1>
+<h3 align="center">💻 Full Stack Developer | 🚀 Tech Enthusiast | 🧠 Lifelong Learner</h3>
 
-<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+cool+things+with+code;Crafting+scalable+web+apps;Always+learning+and+exploring" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+from+India;Building+Web+Apps+that+Scale;Always+Learning+Something+New..." alt="Typing SVG" />
 </p>
 
 ---
 
-<!-- Socials -->
+<!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/nirajnillawar/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nirajnillawar@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://your-portfolio.com" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- 💼 Full Stack Developer with experience in MERN stack & modern frameworks  
-- 🛠️ Passionate about building scalable, high-performance web applications  
-- 🌱 Currently learning DevOps & Cloud (AWS, Docker, CI/CD)  
-- 📫 Reach me at: **nirajnillawar@example.com**  
-- 🧠 I love solving real-world problems with clean & efficient code  
+- 💼 Full Stack Developer (MERN & modern web)
+- 🛠️ Passionate about clean code and scalable solutions
+- 🌱 Exploring DevOps, Docker, CI/CD, and AWS
+- ☕ I debug faster with chai in hand!
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,git,github,tailwind,docker,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,html,css,tailwind,git,github,docker,aws,vscode" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NirajDN&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirajDN&theme=radical" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NirajDN&show_icons=true&theme=radical&border_radius=10" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajDN&layout=compact&theme=radical&border_radius=10" width="49.5%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajDN&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirajDN&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="80%" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🔥 GitHub Activity Graph
 
-- [🔗 Project One Name](https://github.com/NirajDN/project-one) — Short description of the project.
-- [🔗 Project Two Name](https://github.com/NirajDN/project-two) — Short description of the project.
-
----
-
-### 📚 Blog Posts / Articles
-
-- [📝 How I Built My Portfolio with Next.js](https://your-blog.com/post-link)
-- [🛠️ Understanding JWT Auth in Node.js](https://your-blog.com/post-link)
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NirajDN&theme=react-dark&area=true&hide_border=true" />
+</p>
 
 ---
 
-### 📍 Fun Facts
+## 📝 Latest Blog Posts
 
-- 🎧 I code better with music  
-- 🌐 I love exploring new tech stacks and tools  
-- ✈️ Always up for a tech challenge!
+<!-- Blog posts fetched via GitHub Action or manual links -->
+- [How I Built My Portfolio with Next.js](https://your-blog.com/post1)
+- [Understanding JWT Auth in Node.js](https://your-blog.com/post2)
 
----
-
-### 🙌 Let's Connect
-
-> Drop me a message or follow — I’m always open to new connections and collaborations!
+<sub>💡 Want this to update automatically? Let me know your blog platform (e.g. Medium, Dev.to), and I’ll help you set it up.</sub>
 
 ---
 
+## 🚀 Projects
+
+- [🔗 Project One](https://github.com/NirajDN/project-one) — A brief description of the project.
+- [🔗 Project Two](https://github.com/NirajDN/project-two)
+
+---
+
+## 🎯 Fun Facts
+
+- 🎧 Coding with Lo-Fi is my jam  
+- 🧠 I think in functions  
+- 🧩 Love solving puzzles and debugging weird bugs
+
+---
+
+## 📬 Let's Connect
+
+> Open to freelance, collaboration, or just tech talks! Feel free to reach out or connect.
+
+---
+
+## 🧠 Want This Profile?
+
+**Star this repo** or **fork it** to use as your own base.
+
+---
+
+## ⚙️ Auto-Blog Setup (Optional)
+
+If you want your blog posts to **auto-update**, tell me your blog platform and I’ll generate the GitHub Actions workflow for you.
