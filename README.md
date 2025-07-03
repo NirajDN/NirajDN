@@ -104,7 +104,11 @@
   <p align="center">
   <img src="https://github.com/NirajDN/NirajDN/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
-# Hi, I'm NirajDN 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NirajDN&color=blue" alt="Profile Views" />
+</p>
+
+<!--# Hi, I'm NirajDN 👋-->
 
 <!--<p align="center">
   ![GitHub Streak](https://streak-stats.demolab.com?user=NirajDN)
