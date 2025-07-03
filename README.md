@@ -106,9 +106,9 @@
 </p>
 <p align="center">
   <a href="https://github.com/NirajDN" title="Check out my GitHub profile!">
-    <img 
-      src="https://komarev.com/ghpvc/?username=NirajDN&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" 
-      alt="Profile Views" 
+    <img
+      src="https://img.shields.io/badge/Profile_Views-counting...-brightgreen?style=for-the-badge&logo=github&labelColor=24292e&color=1e88e5"
+      alt="Profile Views"
       style="
         height: 45px;
         border-radius: 12px;
