@@ -38,8 +38,56 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,html,css,tailwind,git,github,docker,aws,vscode" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript" style="text-decoration:none;margin: 0 8px;">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript" style="text-decoration:none;margin: 0 8px;">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" title="React" style="text-decoration:none;margin: 0 8px;">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" title="Next.js" style="text-decoration:none;margin: 0 8px;">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" title="Node.js" style="text-decoration:none;margin: 0 8px;">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" title="Express" style="text-decoration:none;margin: 0 8px;">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB" style="text-decoration:none;margin: 0 8px;">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL" style="text-decoration:none;margin: 0 8px;">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5" style="text-decoration:none;margin: 0 8px;">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3" style="text-decoration:none;margin: 0 8px;">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS" style="text-decoration:none;margin: 0 8px;">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" title="Git" style="text-decoration:none;margin: 0 8px;">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://github.com/" target="_blank" title="GitHub" style="text-decoration:none;margin: 0 8px;">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" title="Docker" style="text-decoration:none;margin: 0 8px;">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" title="AWS" style="text-decoration:none;margin: 0 8px;">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code" style="text-decoration:none;margin: 0 8px;">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
 </p>
+
 
 ---
 
