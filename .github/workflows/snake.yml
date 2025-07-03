@@ -1,5 +1,8 @@
 name: Generate Snake Animation
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 0 * * *" # runs every day at midnight
@@ -13,7 +16,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: NirajDN
-          outputs: |
+          output: |
             dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
