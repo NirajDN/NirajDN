@@ -105,6 +105,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirajDN&theme=radical" alt="GitHub Streak" />
 </p>
+## 🔥 GitHub Streak Stats
+<p align="center">
+  <a href="https://git.io/streak-stats" title="GitHub Streak">
+    <img src="https://streak-stats.demolab.com/?user=NirajDN&theme=blueberry" alt="NirajDN's GitHub streak" />
+  </a>
+</p>
 
 
 
