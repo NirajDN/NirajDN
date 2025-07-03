@@ -58,9 +58,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirajDN&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=programming" alt="Programming Quote" />
-</p>
+
 
 
 
@@ -100,6 +98,9 @@
 - 🎧 Coding with Lo-Fi is my jam  
 - 🧠 I think in functions  
 - 🧩 Love solving puzzles and debugging weird bugs
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=programming" alt="Programming Quote" />
+</p>
 
 ---
 
@@ -114,7 +115,3 @@
 **Star this repo** or **fork it** to use as your own base.
 
 ---
-
-## ⚙️ Auto-Blog Setup (Optional)
-
-If you want your blog posts to **auto-update**, tell me your blog platform and I’ll generate the GitHub Actions workflow for you.
