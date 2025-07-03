@@ -5,8 +5,8 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs every day at midnight
-  workflow_dispatch:    # allows manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -16,8 +16,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: NirajDN
-          output: |
+          outputs: |
             dist/github-contribution-grid-snake.svg
+
+      - name: List files after snake generation
+        run: ls -R
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
