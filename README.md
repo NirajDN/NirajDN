@@ -107,12 +107,20 @@
 <p align="center">
   <a href="https://github.com/NirajDN" title="Check out my GitHub profile!">
     <img 
-      src="https://komarev.com/ghpvc/?username=NirajDN&color=blue" 
+      src="https://komarev.com/ghpvc/?username=NirajDN&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" 
       alt="Profile Views" 
-      style="border-radius: 12px; box-shadow: 0 0 8px rgba(0,0,255,0.6);" 
+      style="
+        height: 45px;
+        border-radius: 12px;
+        box-shadow: 0 0 15px rgba(0, 255, 255, 0.6);
+        transition: transform 0.3s ease-in-out;
+      "
+      onmouseover="this.style.transform='scale(1.1)'"
+      onmouseout="this.style.transform='scale(1)'"
     />
   </a>
 </p>
+
 
 <!--# Hi, I'm NirajDN 👋-->
 
