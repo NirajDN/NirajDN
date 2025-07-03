@@ -63,9 +63,6 @@
   <a href="https://www.mongodb.com/" target="_blank" title="MongoDB" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" style="border-radius:12px; box-shadow: 0 6px 12px rgba(72, 125, 62, 0.6);" />
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50" style="border-radius:12px; box-shadow: 0 6px 12px rgba(49, 118, 175, 0.6);" />
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50" style="border-radius:12px; box-shadow: 0 6px 12px rgba(227, 76, 38, 0.6);" />
   </a>
