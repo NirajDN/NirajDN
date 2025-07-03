@@ -104,10 +104,19 @@
   <p align="center">
   <img src="https://github.com/NirajDN/NirajDN/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
+# Hi, I'm NirajDN 👋
 
-  <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NirajDN&theme=radical" alt="GitHub Streak" />
+<p align="center">
+  ![GitHub Streak](https://streak-stats.demolab.com?user=NirajDN)
 </p>
+
+<p align="center">
+  ![GitHub Streak Alternative](https://github-readme-streak-stats.herokuapp.com/?user=NirajDN&theme=radical)
+</p>
+
+ <!-- <p align="center">
+  <img src="https://streak-stats.demolab.com?user=NirajDN&theme=radical" alt="GitHub Streak" />
+</p>-->
 
 
 <!-- </p>
