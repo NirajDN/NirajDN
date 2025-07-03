@@ -51,8 +51,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.app/?user=NirajDN&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NirajDN&theme=radical" alt="GitHub Trophies" />
 </p>
+
 
 
 
