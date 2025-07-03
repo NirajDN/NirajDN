@@ -105,7 +105,13 @@
   <img src="https://github.com/NirajDN/NirajDN/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NirajDN&color=blue" alt="Profile Views" />
+  <a href="https://github.com/NirajDN" title="Check out my GitHub profile!">
+    <img 
+      src="https://komarev.com/ghpvc/?username=NirajDN&color=blue" 
+      alt="Profile Views" 
+      style="border-radius: 12px; box-shadow: 0 0 8px rgba(0,0,255,0.6);" 
+    />
+  </a>
 </p>
 
 <!--# Hi, I'm NirajDN 👋-->
