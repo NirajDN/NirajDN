@@ -51,8 +51,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.madyan.dev/?user=NirajDN&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.app/?user=NirajDN&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 
 
