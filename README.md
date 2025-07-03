@@ -103,11 +103,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=NirajDN&theme=radical" alt="GitHub Trophies" />
 </p>
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=NirajDN&theme=radical" 
-    alt="GitHub Streak Stats" 
-    onError="this.style.display='none'; this.insertAdjacentHTML('afterend', '<p style=\'font-size: 20px; font-style: italic; text-align: center; color: #555;\'>“Computers are useless. They can only give you answers.” – Pablo Picasso</p>');" 
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirajDN&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 
