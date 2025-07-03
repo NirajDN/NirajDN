@@ -88,14 +88,7 @@
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" style="border-radius:12px; box-shadow: 0 6px 12px rgba(0, 122, 204, 0.6);" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/NirajDN" title="Check out my GitHub profile!">
-    <img 
-      src="https://komarev.com/ghpvc/?username=NirajDN&label=👁️+Profile+Views&color=brightgreen&style=for-the-badge" 
-      alt="Profile Views" 
-    />
-  </a>
-</p>
+
 
 
 ---
@@ -149,6 +142,14 @@
 ---
 
 ## 🔥 GitHub Activity Graph
+<p align="center">
+  <a href="https://github.com/NirajDN" title="Check out my GitHub profile!">
+    <img 
+      src="https://komarev.com/ghpvc/?username=NirajDN&label=👁️+Profile+Views&color=brightgreen&style=for-the-badge" 
+      alt="Profile Views" 
+    />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NirajDN&theme=react-dark&area=true&hide_border=true" />
