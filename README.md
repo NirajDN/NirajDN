@@ -162,7 +162,6 @@
 - [How I Built My Portfolio with Next.js](https://your-blog.com/post1)
 - [Understanding JWT Auth in Node.js](https://your-blog.com/post2)
 
-<sub>💡 Want this to update automatically? Let me know your blog platform (e.g. Medium, Dev.to), and I’ll help you set it up.</sub>
 
 ---
 
