@@ -102,9 +102,10 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NirajDN&theme=radical" alt="GitHub Trophies" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirajDN&theme=radical" alt="GitHub Streak Stats" />
-</p>
+## 🔥 GitHub Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=NirajDN&theme=radical)
+
 
 
 
