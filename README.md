@@ -106,9 +106,10 @@
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=NirajDN&theme=radical" 
     alt="GitHub Streak Stats" 
-    onError="this.onerror=null; this.src=''; this.alt='“Computers are useless. They can only give you answers.” – Pablo Picasso';" 
+    onError="this.style.display='none'; this.insertAdjacentHTML('afterend', '<p style=\'font-size: 20px; font-style: italic; text-align: center; color: #555;\'>“Computers are useless. They can only give you answers.” – Pablo Picasso</p>');" 
   />
 </p>
+
 
 
 
