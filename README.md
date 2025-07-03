@@ -105,7 +105,10 @@
   <img src="https://github.com/NirajDN/NirajDN/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-  
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=NirajDN&theme=radical" alt="GitHub Streak" />
+</p>
+
 <!-- </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirajDN&theme=radical" alt="GitHub Streak Stats" />
