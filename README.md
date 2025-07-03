@@ -58,6 +58,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirajDN&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=programming" alt="Programming Quote" />
+</p>
+
 
 
 
