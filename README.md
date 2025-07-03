@@ -106,20 +106,13 @@
 </p>
 <p align="center">
   <a href="https://github.com/NirajDN" title="Check out my GitHub profile!">
-    <img
-      src="https://visitor-badge.glitch.me/badge?page_id=NirajDN.NirajDN&style=flat-square&color=0e75b6&label=Visitors&labelColor=24292e"
-      alt="Profile Visitors"
-      style="
-        height: 45px;
-        border-radius: 12px;
-        box-shadow: 0 0 15px rgba(0, 255, 255, 0.6);
-        transition: transform 0.3s ease-in-out;
-      "
-      onmouseover="this.style.transform='scale(1.1)'"
-      onmouseout="this.style.transform='scale(1)'"
+    <img 
+      src="https://komarev.com/ghpvc/?username=NirajDN&label=👁️+Profile+Views&color=brightgreen&style=for-the-badge" 
+      alt="Profile Views" 
     />
   </a>
 </p>
+
 
 
 <!--# Hi, I'm NirajDN 👋-->
