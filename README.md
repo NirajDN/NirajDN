@@ -51,8 +51,11 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NirajDN&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github.com/NirajDN.png" alt="GitHub Profile Picture" width="100" />
+  <br />
+  <img src="https://activity-graph.herokuapp.com/graph?username=NirajDN&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
 
 ---
 
