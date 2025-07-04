@@ -30,7 +30,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me-
 
 - 💼 Full Stack Developer (MERN & modern web)
 - 🛠️ Passionate about clean code and scalable solutions
@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack-
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript" style="text-decoration:none;">
