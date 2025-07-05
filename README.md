@@ -11,20 +11,22 @@
 <!-- Social Badges -->
 <p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/nirajdn/" target="_blank" title="LinkedIn" style="text-decoration:none;">
-    <img height="35" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img height="45" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  
   <a href="mailto:nirajnillawar@gmail.com" title="Email">
-  <img height="35" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
+    <img height="45" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
   <a href="https://your-portfolio.com" target="_blank" title="Portfolio" style="text-decoration:none;">
-    <img height="35" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white" alt="Portfolio" />
+    <img height="45" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
+
   <a href="https://leetcode.com/u/NirajDN/" target="_blank" title="LeetCode" style="text-decoration:none;">
-    <img height="35" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img height="45" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
+
 
 
 
