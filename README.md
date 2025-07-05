@@ -104,6 +104,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=NirajDN&theme=radical" alt="GitHub Trophies" />
 </p>
 
+<!--<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NirajDN&theme=nightowl&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>   WHITE THEME TROPHIES-->
+
+
 
 
 
