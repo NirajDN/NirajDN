@@ -9,21 +9,21 @@
 ---
 
 <!-- Social Badges -->
-<p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/nirajdn/" target="_blank" title="LinkedIn" style="text-decoration:none;">
-    <img height="45" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/nirajdn/" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
   <a href="mailto:nirajnillawar@gmail.com" title="Email">
-    <img height="45" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
-  <a href="https://your-portfolio.com" target="_blank" title="Portfolio" style="text-decoration:none;">
-    <img height="45" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white" alt="Portfolio" />
+  <a href="https://your-portfolio.com" target="_blank" title="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
 
-  <a href="https://leetcode.com/u/NirajDN/" target="_blank" title="LeetCode" style="text-decoration:none;">
-    <img height="45" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="https://leetcode.com/u/NirajDN/" target="_blank" title="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
