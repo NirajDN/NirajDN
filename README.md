@@ -35,7 +35,7 @@
 - 💼 Full Stack Developer (MERN & modern web)
 - 🛠️ Passionate about clean code and scalable solutions
 - 🌱 Exploring DevOps, Docker, CI/CD, and AWS
-- ☕ I debug faster with chai in hand!
+- ☕ I debug faster with chai/coffee in hand!
 
 ---
 
