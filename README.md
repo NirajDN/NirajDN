@@ -101,8 +101,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NirajDN&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NirajDN&theme=nightowl&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
+
 
   <p align="center">
   <img src="https://github.com/NirajDN/NirajDN/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
