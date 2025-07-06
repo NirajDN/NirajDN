@@ -169,6 +169,11 @@
 
 
 ---
+<p align="center">
+  <a href="https://my-3d-avatar.spline.design/">
+    <img src="https://user-images.githubusercontent.com/your-image.png" alt="3D Avatar" width="600"/>
+  </a>
+</p>
 
 ## 📝 Latest Blog Posts
 
