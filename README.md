@@ -169,11 +169,11 @@
 
 
 ---
-<p align="center">
+<!--<p align="center">
   <a href="https://my.spline.design/robot4legsdarkcopy-wBuzmafdLnJJibn73nJecJ67/" target="_blank">
     <img src="https://raw.githubusercontent.com/NirajDN/NirajDN/main/avatar-preview.png" alt="3D Avatar Preview" width="600" />
   </a>
-</p>
+</p>-->
 
 
 ## 📝 Latest Blog Posts
