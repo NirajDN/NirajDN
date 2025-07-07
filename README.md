@@ -194,7 +194,7 @@
 
 ## 🎯 Fun Facts
 
-- 🎧 Coding with Lo-Fi is my jam  
+- 🎧 🌀 Code flows smoother with Lo-Fi in the background
 - 🧠 I think in functions  
 - 🧩 Love solving puzzles and debugging weird bugs
 <p align="center">
