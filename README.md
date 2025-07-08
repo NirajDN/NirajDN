@@ -175,20 +175,24 @@
   </a>
 </p>-->
 
-
 ## 📝 Latest Blog Posts
 
-<!-- Blog posts fetched via GitHub Action or manual links -->
-- [How I Built My Portfolio with Next.js](https://your-blog.com/post1)
-- [Understanding JWT Auth in Node.js](https://your-blog.com/post2)
+
+### 🌐 Blogs I Recently Enjoyed
+- ["Generative AI"](https://www.carnegiecouncil.org/explore-engage/key-terms/generative-ai?utm_term=&utm_campaign=DSA+-+AI+Pages&utm_source=adwords&utm_medium=ppc&hsa_acc=2829230793&hsa_cam=20628549311&hsa_grp=154526683139&hsa_ad=676326836377&hsa_src=g&hsa_tgt=dsa-397913802635&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=20628549311&gbraid=0AAAAAo_jTlmrP_-uO7avgIB7B1v81xSOu&gclid=CjwKCAjw4K3DBhBqEiwAYtG_9A5x9zPYiZIH3TpqsWPKFJFHfDOh8S_R6BgQyCQcTamyw73gJWbELxoCRuQQAvD_BwE)
+- ["The MERN stack: A practical tutorial"](https://blog.logrocket.com/mern-stack-tutorial/)
+<!--- [Blog Title You Liked – e.g., "The Future of Computer Science & Generative AI"](https://link-to-liked-blog.com)-->
+
 
 
 ---
 
 ## 🚀 Projects
 
-- [🔗 Project One](https://github.com/NirajDN/project-one) — A brief description of the project.
-- [🔗 Project Two](https://github.com/NirajDN/project-two)
+- [🔗 OS.Event-logger)](https://github.com/NirajDN/RTOS-EVENT-LOGGER) — 🔐 Real-Time OS Security Event Logger
+A real-time monitoring system that logs and visualizes OS-level security events to help detect potential vulnerabilities. It features a dynamic dashboard with WebSocket integration, enabling seamless, live updates of system-level activity. Ideal for enhancing transparency and proactive threat detection in operating systems.
+- [🔗 Time-Explorer)](https://github.com/NirajDN/Time-Explorer)-🕰️ Time Explorer – Historical Events Finder
+Time Explorer is an interactive web app that lets users discover major historical events from any selected date. If no significant event is found, it seamlessly displays top news headlines from that day, making history and current affairs easily accessible in one place.
 
 ---
 
@@ -205,9 +209,14 @@
 
 ## 📬 Let's Connect
 
-> Open to freelance, collaboration, or just tech talks! Feel free to reach out or connect.
+> 💼 Open to freelance projects, collaboration opportunities, or just a good tech talk!
 
----
+I'm always excited to connect with fellow developers, tech enthusiasts, and creators. Whether you want to discuss an idea, ask a question, or build something together — don’t hesitate to reach out!
+
+📧 Email: nirajnillawar@gmail.com  
+💬 DM me on [LinkedIn](https://www.linkedin.com/in/nirajdn/)  
+🌐 Explore more on [My Portfolio](https://your-portfolio.com)
+
 
 ## 🧠 Want This Profile?
 
