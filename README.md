@@ -102,10 +102,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajDN&layout=compact&theme=tokyonight&border_radius=10" width="49.5%" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NirajDN&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
 <!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NirajDN&theme=darkhub&no-frame=true&row=1&column=7" style="display:block;" onerror="this.style.display='none';" />
 </p>-->
