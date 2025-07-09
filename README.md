@@ -103,10 +103,10 @@
 </p>
 
 
-<!--<p align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NirajDN&theme=darkhub&no-frame=true&row=1&column=7" />
 </p>
-<p align="center">
+<!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NirajDN&theme=darkhub&no-frame=true&row=1&column=7" style="display:block;" onerror="this.style.display='none';" />
 </p>-->
 <p align="center">
