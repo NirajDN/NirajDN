@@ -168,6 +168,14 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NirajDN&theme=react-dark&area=true&hide_border=true" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirajDN&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NirajDN&theme=github_dark" />
+</p>
+
 
 
 ---
