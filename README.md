@@ -106,6 +106,11 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NirajDN&theme=darkhub&no-frame=true&row=1&column=7" />
 </p>
+<!--<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NirajDN&theme=darkhub&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</p>-->
+
+
 
 
 <!--<p align="center">
