@@ -98,13 +98,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NirajDN&show_icons=true&theme=radical&border_radius=10" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajDN&layout=compact&theme=radical&border_radius=10" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NirajDN&show_icons=true&theme=tokyonight&border_radius=10" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajDN&layout=compact&theme=tokyonight&border_radius=10" width="49.5%" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NirajDN&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NirajDN&theme=darkhub&no-frame=true&row=1&column=7" />
 </p>
+
 
 <!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NirajDN&theme=nightowl&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
