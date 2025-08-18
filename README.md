@@ -193,8 +193,20 @@
     <img src="https://raw.githubusercontent.com/NirajDN/NirajDN/main/avatar-preview.png" alt="3D Avatar Preview" width="600" />
   </a>
 </p>-->
+## 🧠 LeetCode 
 
-## 📝 Latest Blog Posts
+<table>
+<!--   <tr> -->
+<!--     <td> -->
+<!--       <a href="https://leetcode.com/Aarab18"> -->
+<!--         <img src="https://leetcard.jacoblin.cool/Aarab18?theme=dark&font=Ubuntu&extension=null" alt="LeetCode Stats" /> -->
+      </a>
+    </td>
+    <td>
+      <img src="https://media.licdn.com/dms/image/v2/D4E22AQFECzlsktkisQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1715583200808?e=2147483647&v=beta&t=Cd_yU9bEHjysx2uv9VVvDLRRHXWcXSFbrCfVf55yhGc" alt="Custom Image" width="300"/>
+    </td>
+  </tr>
+</table>
 
 
 ### 🌐 Blogs I Recently Enjoyed
