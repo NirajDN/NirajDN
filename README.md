@@ -40,11 +40,6 @@
 
 
 ---
-### 🏅 Holopin Badges – Open Source Contributor
-
-[![NirajDN's Holopin Board](https://holopin.io/api/user/board?user=nirajdn)](https://holopin.io/@nirajdn)
-
-*I actively contribute to open source projects and proudly display my achievements here!*
 
 ---
 
@@ -166,6 +161,22 @@
 
 
 
+---
+### 🏅 Open Source Contributor
+
+<p align="center">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgo5pyhy0008l8048dd7q4vh" target="_blank">
+    <img src="https://github.com/user-attachments/assets/980f26b3-22dd-494d-b400-b5e2e4944d68" alt="lvl0-alien Badge" width="240" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.holopin.io/userbadge/cmgo5r02p000al804i1p3odh7" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e5c20a4a-27ff-48ba-949b-221cb3b28e6b" alt="Dino Badge" width="240" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Proud Open Source Contributor 💻 | Hacktoberfest 2025 Participant 🎉</b>
+</p>
 
 
 
@@ -243,6 +254,15 @@ Time Explorer is an interactive web app that lets users discover major historica
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=programming" alt="Programming Quote" />
 </p>
+
+---
+
+---
+### 🏅 Holopin Badges – Open Source Contributor
+
+[![NirajDN's Holopin Board](https://holopin.io/api/user/board?user=nirajdn)](https://holopin.io/@nirajdn)
+
+*I actively contribute to open source projects and proudly display my achievements here!*
 
 ---
 
