@@ -38,6 +38,14 @@
 - 🌱 Exploring DevOps, Docker, CI/CD, and AWS
 - ☕ I debug faster with chai/coffee in hand!
 
+
+---
+### 🏅 Holopin Badges – Open Source Contributor
+
+[![NirajDN's Holopin Board](https://holopin.io/api/user/board?user=nirajdn)](https://holopin.io/@nirajdn)
+
+*I actively contribute to open source projects and proudly display my achievements here!*
+
 ---
 
 ## 🛠️ Tech Stack-
