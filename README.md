@@ -3,7 +3,7 @@
 <h3 align="center">💻 Full Stack Developer | 🚀 Tech Enthusiast | 🧠 Lifelong Learner </h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+from+India;Building+Web+Apps+that+Scale;Always+Learning+Something+New..." alt="Typing SVG" />
-</p>
+</p> 
 
 ---
 
