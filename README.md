@@ -265,7 +265,7 @@ Time Explorer is an interactive web app that lets users discover major historica
 ---
 ### 🏅 Holopin Badges – Open Source Contributor
 
-[![NirajDN's Holopin Board](https://holopin.io/api/user/board?user=nirajdn)](https://holopin.io/@nirajdn)
+[![@nirajdn’s Holopin board](https://holopin.io/api/user/board?user=nirajdn)](https://holopin.io/@nirajdn)
 
 *I actively contribute to open source projects and proudly display my achievements here!*
 
