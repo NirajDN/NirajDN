@@ -172,11 +172,16 @@
   <a href="https://www.holopin.io/userbadge/cmgo5r02p000al804i1p3odh7" target="_blank">
     <img src="https://github.com/user-attachments/assets/e5c20a4a-27ff-48ba-949b-221cb3b28e6b" alt="Dino Badge" width="240" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.holopin.io/userbadge/cmgsyrhj6002tld04544xo35a" target="_blank">
+    <img src="https://github.com/user-attachments/assets/eb862be4-2d6e-4ea8-96b0-52eab9cd447c" alt="Open Chicago Badge" width="240" />
+  </a>
 </p>
 
 <p align="center">
   <b>Proud Open Source Contributor 💻 | Hacktoberfest 2025 Participant 🎉</b>
 </p>
+
 
 
 
