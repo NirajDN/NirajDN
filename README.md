@@ -169,22 +169,51 @@
 
 <p align="center">
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgo5pyhy0008l8048dd7q4vh" target="_blank">
-    <img src="https://github.com/user-attachments/assets/980f26b3-22dd-494d-b400-b5e2e4944d68" alt="lvl0-alien Badge" width="240" />
+    <img src="https://github.com/user-attachments/assets/980f26b3-22dd-494d-b400-b5e2e4944d68" alt="lvl0-alien Badge" width="200" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.holopin.io/userbadge/cmgo5r02p000al804i1p3odh7" target="_blank">
-    <img src="https://github.com/user-attachments/assets/e5c20a4a-27ff-48ba-949b-221cb3b28e6b" alt="Dino Badge" width="240" />
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgyi4ir8003njm044k4qlf3k" target="_blank">
+    <img src="https://github.com/user-attachments/assets/cc03184f-94ba-4dbf-a620-5516695085a9" alt="lvl1-alien" width="200" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.holopin.io/userbadge/cmgsyrhj6002tld04544xo35a" target="_blank">
-    <img src="https://github.com/user-attachments/assets/eb862be4-2d6e-4ea8-96b0-52eab9cd447c" alt="Open Chicago Badge" width="240" />
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgyi6hom0005jv04opbpy4mj" target="_blank">
+    <img src="https://github.com/user-attachments/assets/fbfc9d22-47a2-49f7-8067-c25f7ae34b24" alt="lvl2-alien" width="200" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgyi6u8i002tjv04f8aingte" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e76344b1-0030-4538-a784-6c7014d997c6" alt="lvl3-alien" width="200" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgyi7gq3002wjv04e11nixzm" target="_blank">
+    <img src="https://github.com/user-attachments/assets/730e0ce3-e214-47d0-9c30-8efc2fd022e9" alt="lvl4-alien" width="200" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgyi7go0002vjv04u9om3nsm" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e65d36ea-970d-49de-9dd5-18bbe46dd09b" alt="lvl5-alien" width="200" />
   </a>
 </p>
 
 <p align="center">
-  <b>Proud Open Source Contributor 💻 Hacktoberfest 2025 Participant 🎉</b>
+  <a href="https://www.holopin.io/userbadge/cmgyi5x5c003pjm04akyxp7kw" target="_blank">
+    <img src="https://github.com/user-attachments/assets/4933101e-2704-43bf-a8b1-dc64ebfaea7e" alt="Plant a Tree Badge" width="200" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.holopin.io/userbadge/cmgo5r02p000al804i1p3odh7" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e5c20a4a-27ff-48ba-949b-221cb3b28e6b" alt="Dino Badge" width="200" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.holopin.io/userbadge/cmgsyrhj6002tld04544xo35a" target="_blank">
+    <img src="https://github.com/user-attachments/assets/eb862be4-2d6e-4ea8-96b0-52eab9cd447c" alt="Open Chicago Badge" width="200" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.holopin.io/userbadge/cmh1ka1cf002bl404qmvyf7w9" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6453ecd3-0cd1-4d1f-b29f-708481302dc5" alt="Holopin Club Badge" width="200" />
+  </a>
 </p>
 
+<p align="center">
+  <b>🌱 Proud Open Source Contributor 💻 | Hacktoberfest 2025 Participant 🎉</b>
+</p>
 
 
 
