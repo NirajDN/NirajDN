@@ -212,7 +212,7 @@
 </p>
 
 <p align="center">
-  <b>🌱 Proud Open Source Contributor 💻 | Hacktoberfest 2025 Participant 🎉</b>
+  <b>🌱 Proud Open Source Contributor 💻 | Hacktoberfest 2025 Super Contributer 🎉</b>
 </p>
 
 
