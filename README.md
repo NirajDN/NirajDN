@@ -299,7 +299,7 @@ Time Explorer is an interactive web app that lets users discover major historica
 
 [![@nirajdn’s Holopin board](https://holopin.io/api/user/board?user=nirajdn)](https://holopin.io/@nirajdn)
 
-*I actively contribute to open source projects and proudly display my achievements here!*
+*I actively contribute to open source projects and proudly display my achievements here!* 
 
 ---
 
