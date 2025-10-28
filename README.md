@@ -209,7 +209,13 @@
   <a href="https://www.holopin.io/userbadge/cmh1ka1cf002bl404qmvyf7w9" target="_blank">
     <img src="https://github.com/user-attachments/assets/6453ecd3-0cd1-4d1f-b29f-708481302dc5" alt="Holopin Club Badge" width="200" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.holopin.io/userbadge/cmhaslc3d001jl404qcm82jhj" target="_blank">
+    <img src="https://github.com/user-attachments/assets/5d9e1ae5-6776-46c3-b161-74d16dc2943d" alt="5+ Badge Club" width="200" />
+  </a>
 </p>
+
+
 
 <p align="center">
   <b>🌱 Proud Open Source Contributor 💻 | Hacktoberfest 2025 Super Contributor 🎉</b>
