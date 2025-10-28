@@ -303,8 +303,7 @@ Time Explorer is an interactive web app that lets users discover major historica
 ---
 ### 🏅 Holopin Badges – Open Source Contributor
 
-[![@nirajdn’s Holopin board](https://holopin.io/api/user/board?user=nirajdn)](https://holopin.io/@nirajdn)
-
+[![An image of @nirajdn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nirajdn)](https://holopin.io/@nirajdn)
 *I actively contribute to open source projects and proudly display my achievements here!* 
 
 ---
