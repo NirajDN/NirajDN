@@ -325,6 +325,13 @@ Time Explorer is an interactive web app that lets users discover major historica
 *I actively contribute to open source projects and proudly display my achievements here!* 
 
 ---
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=NirajDN&theme=dark&border=border&animated=true" 
+       onerror="this.style.display='none'" 
+       alt="" />
+</p>
+
+---
 
 ## 📬 Let's Connect
 
