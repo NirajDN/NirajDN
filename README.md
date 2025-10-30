@@ -1,4 +1,6 @@
   <!-- Header -->
+
+
 <h1 align="center">Hey 👋, I'm Niraj D Nillawar</h1>
 <h3 align="center">💻 Full Stack Developer | 🚀 Tech Enthusiast | 🧠 Lifelong Learner </h3>   
 <p align="center">
@@ -299,6 +301,22 @@ Time Explorer is an interactive web app that lets users discover major historica
 </p>
 
 ---
+<!--### 💻 My LeetCode Profile
+
+<p align="center">
+  <a href="https://leetcode.com/NirajDN/">
+    <img src="https://leetcard.jacoblin.cool/NirajDN?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats Card">
+  </a>
+</p>
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=NirajDN&theme=dark&border=border&animated=true" 
+       onerror="this.style.display='none'" 
+       alt="" />
+</p>
+-->
+
+
+
 
 ---
 ### 🏅 Holopin Badges – Open Source Contributor
