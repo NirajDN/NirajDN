@@ -299,7 +299,10 @@ Time Explorer is an interactive web app that lets users discover major historica
 </p>
 
 ---
-<!--### 💻 My LeetCode Profile
+### 💻 My LeetCode Badges
+[![badges](https://github.com/user-attachments/assets/2be5b1e0-2e0f-40b3-8587-63d74fa3ac99)](https://leetcode-badge-showcase.vercel.app/api?username=NirajDN&theme=dark&border=border&animated=true)
+
+<!--
 
 <p align="center">
   <a href="https://leetcode.com/NirajDN/">
@@ -321,9 +324,6 @@ Time Explorer is an interactive web app that lets users discover major historica
 
 [![An image of @nirajdn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nirajdn)](https://holopin.io/@nirajdn)
 *I actively contribute to open source projects and proudly display my achievements here!* 
-
----
-[![badges](https://github.com/user-attachments/assets/2be5b1e0-2e0f-40b3-8587-63d74fa3ac99)](https://leetcode-badge-showcase.vercel.app/api?username=NirajDN&theme=dark&border=border&animated=true)
 
 ---
 
