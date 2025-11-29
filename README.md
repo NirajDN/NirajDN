@@ -2,7 +2,8 @@
 <h1 align="center">Hey 👋, I'm Niraj D Nillawar</h1>
 <h3 align="center">💻 Full Stack Developer | 🚀 Tech Enthusiast | 🧠 Lifelong Learner </h3>   
 <p align="center">
-  <img  src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+from+India;Building+Web+Apps+that+Scale;Always+Learning+Something+New..." alt="" />
+ <img src="https://readme-typing-svg.vercel.app?lines=Full+Stack+Developer+from+India;Building+Web+Apps+That+Scale;Always+Learning+Something+New" />
+
 </p>  
            
  
@@ -103,7 +104,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NirajDN&show_icons=true&theme=tokyonight&border_radius=10" width="49.5%" />
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NirajDN&show_icons=true&theme=tokyonight&border_radius=10" width="49.5%" />
+
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajDN&layout=compact&theme=tokyonight&border_radius=10" width="49.5%" />
 </p>
 
