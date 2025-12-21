@@ -11,7 +11,6 @@
 ---
 
 
-
 <!--Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/nirajdn/" target="_blank" title="LinkedIn">
