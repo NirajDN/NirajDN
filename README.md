@@ -111,6 +111,10 @@
 
 
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajDN&layout=compact&theme=tokyonight&border_radius=10" width="49.5%" /> -->
+   ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NirajDN&theme=tokyonight)
+   ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NirajDN&theme=tokyonight)
+
+
 
 
 
