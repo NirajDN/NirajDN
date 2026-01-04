@@ -1,3 +1,5 @@
+![GitHub Streak](https://streak-stats.demolab.com?user=NirajDN&theme=tokyonight&hide_border=true)
+
 
    <!-- Header -->
 <h1 align="center">Hey 👋, I'm Niraj D Nillawar</h1>
