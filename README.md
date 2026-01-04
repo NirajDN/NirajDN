@@ -40,7 +40,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="angry-cat" height="230" width="200"
+<img align="right" alt="angry-cat" height="250" width="230"
 src="https://github.com/user-attachments/assets/3e65226b-c49f-4815-bded-e4958cdfca7b">
 
 I am a highly motivated **Full Stack Developer** with a strong interest in building
