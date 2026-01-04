@@ -46,7 +46,7 @@
 
 
 ---
-
+![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=600&lines=%24+whoami+NirajDN;%24+role+Full+Stack+%7C+SRE+Intern;%24+skills+React+Node+Linux)
 ---
 
 ## 🛠️ Tech Stack-
