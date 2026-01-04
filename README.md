@@ -38,7 +38,13 @@
 
 ---
 
-## 🧑‍💻 About Me-
+## 🧑‍💻 About Me
+
+<img align="right" alt="angry-cat" height="230" width="200"
+src="https://github.com/user-attachments/assets/3e65226b-c49f-4815-bded-e4958cdfca7b">
+
+I am a highly motivated **Full Stack Developer** with a strong interest in building
+scalable, user-focused web applications and reliable backend systems.
 
 - 💼 Full Stack Developer (MERN & modern web)
 - 🛠️ Passionate about clean code and scalable solutions
@@ -46,9 +52,10 @@
 - ☕ I debug faster with chai/coffee in hand!
 
 
----
+
+
+
 ![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=600&lines=%24+whoami+NirajDN;%24+role+Full+Stack+%7C+SRE+Intern;%24+skills+React+Node+Linux)
----
 
 ## 🛠️ Tech Stack-
 
