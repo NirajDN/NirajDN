@@ -1,5 +1,3 @@
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NirajDN&theme=tokyonight)
-
 
    <!-- Header -->
 <h1 align="center">Hey 👋, I'm Niraj D Nillawar</h1>
