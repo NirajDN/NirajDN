@@ -120,10 +120,7 @@ scalable, user-focused web applications and reliable backend systems.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NirajDN&theme=tokyonight" width="48%" />
 </p>
 
-<!-- Row 2: Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirajDN&theme=tokyonight" width="60%" />
-</p>
+
 
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajDN&layout=compact&theme=tokyonight&border_radius=10" width="49.5%" /> -->
 
@@ -289,6 +286,7 @@ scalable, user-focused web applications and reliable backend systems.
 <!--     </td> -->
 <!--   </tr> -->
 <!-- </table> -->
+![city](https://github.com/user-attachments/assets/c0902fb8-4232-4821-8a53-5f88fc8933b5)
 
 
 ### 🌐 Blogs I Recently Enjoyed
