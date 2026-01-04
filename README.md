@@ -106,19 +106,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NirajDN&show_icons=true&theme=tokyonight&border_radius=10" width="49.5%" />
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NirajDN&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NirajDN&theme=tokyonight" width="48%" />
+</p>
 
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajDN&layout=compact&theme=tokyonight&border_radius=10" width="49.5%" /> -->
-   ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NirajDN&theme=tokyonight)
-
-
-
-
-
-
-
-</p>
 
 
 <!--<p align="center">
