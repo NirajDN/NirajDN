@@ -320,8 +320,8 @@ Time Explorer is an interactive web app that lets users discover major historica
 ---
 ### 💻 My LeetCode Badges
 <!--[![badges](https://github.com/user-attachments/assets/2be5b1e0-2e0f-40b3-8587-63d74fa3ac99)](https://leetcode-badge-showcase.vercel.app/api?username=NirajDN&theme=dark&border=border&animated=true) -->
+![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=NirajDN&theme=dark&border=border)
 
-[![badges](https://leetcode-badge-showcase.vercel.app/api?username=NirajDN&theme=dark&border=border&animated=true&refresh=1)](https://leetcode-badge-showcase.vercel.app/api?username=NirajDN&theme=dark&border=border&animated=true)
 
 <!--  
 
