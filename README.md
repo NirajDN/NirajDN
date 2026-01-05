@@ -266,9 +266,10 @@ scalable, user-focused web applications and reliable backend systems.
 </p>
 
 <!-- GitHub Streak -->
-![GitHub Streak Stats](https://streak-stats.demolab.com?user=NirajDN&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NirajDN&show_icons=true&theme=tokyonight)
 
-![GitHub Streak Stats](https://streak-stats.demolab.com?user=NirajDN&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NirajDN&show_icons=true&theme=tokyonight)
+
 
 
 
