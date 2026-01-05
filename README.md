@@ -139,6 +139,7 @@ scalable, user-focused web applications and reliable backend systems.
 
 </div>
 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NirajDN&theme=darkhub&no-frame=true&row=1&column=7)
 
 
 <!--<p align="center">
