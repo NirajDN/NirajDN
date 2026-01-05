@@ -128,11 +128,9 @@ scalable, user-focused web applications and reliable backend systems.
 <!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NirajDN&theme=darkhub&no-frame=true&row=1&column=7" style="display:block;" onerror="this.style.display='none';" />
 </p>-->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NirajDN&show_icons=true&theme=tokyonight" />
+<p align="center"> 
+   <img src="https://github-profile-trophy.vercel.app/?username=NirajDN&theme=darkhub&no-frame=true&row=1&column=7" alt="" /> 
 </p>
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NirajDN&theme=darkhub&no-frame=true&row=1&column=7)
 
 
 
@@ -268,11 +266,10 @@ scalable, user-focused web applications and reliable backend systems.
 </p>
 
 <!-- GitHub Streak -->
-<p align="center">
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=NirajDN&theme=tokyonight)
 
 ![GitHub Streak Stats](https://streak-stats.demolab.com?user=NirajDN&theme=tokyonight)
 
-</p>
 
 
 <!-- Profile Summary -->
