@@ -363,7 +363,13 @@ Time Explorer is an interactive web app that lets users discover major historica
 *I actively contribute to open source projects and proudly display my achievements here!* 
 
 ---
-![git gif](https://github.com/user-attachments/assets/3990073b-e438-4cc9-9aa8-36f0fd5346a7)
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/3990073b-e438-4cc9-9aa8-36f0fd5346a7"
+    alt="git gif"
+    width="300"
+  />
+</p>
 
 ## 📬 Let's Connect
 
