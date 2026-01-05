@@ -243,29 +243,41 @@ scalable, user-focused web applications and reliable backend systems.
 ---
 
 ## 🔥 GitHub Activity Graph
+<!-- Profile Views -->
 <p align="center">
   <a href="https://github.com/NirajDN" title="Check out my GitHub profile!">
     <img 
       src="https://komarev.com/ghpvc/?username=NirajDN&label=👁️+Profile+Views&color=brightgreen&style=for-the-badge" 
-      alt="Profile Views" 
+      alt="Profile Views"
     />
   </a>
 </p>
 
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NirajDN&theme=react-dark&area=true&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NirajDN&theme=react-dark&area=true&hide_border=true"
+    width="95%"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=NirajDN&theme=tokyonight)
-
-
-
-
-
-
-
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NirajDN&theme=github_dark" />
+  <img
+    src="https://streak-stats.demolab.com?user=NirajDN&theme=tokyonight"
+    width="60%"
+    alt="GitHub Streak Stats"
+  />
+</p>
+
+<!-- Profile Summary -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NirajDN&theme=github_dark"
+    width="95%"
+    alt="GitHub Profile Summary"
+  />
 </p>
 
 
