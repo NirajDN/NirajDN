@@ -367,9 +367,11 @@ Time Explorer is an interactive web app that lets users discover major historica
   <img 
     src="https://github.com/user-attachments/assets/3990073b-e438-4cc9-9aa8-36f0fd5346a7"
     alt="git gif"
-    width="300"
+    width="90%"
   />
 </p>
+
+
 
 ## 📬 Let's Connect
 
