@@ -268,12 +268,11 @@ scalable, user-focused web applications and reliable backend systems.
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=NirajDN&theme=tokyonight"
-    width="60%"
-    alt="GitHub Streak Stats"
-  />
+
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=NirajDN&theme=tokyonight)
+
 </p>
+
 
 <!-- Profile Summary -->
 <p align="center">
