@@ -1,6 +1,4 @@
 ![banner](https://github.com/user-attachments/assets/60a20d27-52af-4abb-88ba-d9b9e0477629)
-
-
    <!-- Header -->
 <h1 align="center">Hey 👋, I'm Niraj D Nillawar</h1>
 <h3 align="center">💻 Full Stack Developer | 🚀 Tech Enthusiast | 🧠 Lifelong Learner </h3>   
@@ -53,7 +51,8 @@ scalable, user-focused web applications and reliable backend systems.
 
 
 
-![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=600&lines=%24+whoami+NirajDN;%24+role+Full+Stack+%7C+SRE+Intern;%24+skills+React+Node+Linux)
+![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F7FF&width=800&lines=%24+whoami+NirajDN;%24+role+Full+Stack+Developer;%24+stack+MERN+%7C+Modern+Web;%24+focus+Scalable+User-Focused+Apps;%24+learning+DevOps+Docker+CI%2FCD+AWS;%24+philosophy+Clean+Code+Reliable+Systems;%24+fuel+Chai+%E2%98%95+Coffee)
+
 
 ## 🛠️ Tech Stack-
 
