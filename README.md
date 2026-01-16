@@ -1,4 +1,4 @@
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NirajDN&theme=tokyonight" alt="GitHub Streak" /></a>
+
 
 ![banner](https://github.com/user-attachments/assets/60a20d27-52af-4abb-88ba-d9b9e0477629)
 
