@@ -9,8 +9,6 @@
  <img src="https://readme-typing-svg.vercel.app?lines=Full+Stack+Developer+from+India;Building+Web+Apps+That+Scale;Always+Learning+Something+New" />
 
 </p>  
-
-
 ---
 <!--Social Badges -->
 <p align="center">
