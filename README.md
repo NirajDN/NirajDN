@@ -264,7 +264,7 @@ scalable, user-focused web applications and reliable backend systems.
 </p>
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=NirajDN&theme=tokyonight)
+![](https://nirzak-streak-stats.vercel.app/?user=NirajDN&theme=tokyonight&hide_border=false)<br/>
 
 <!-- <p align="center">
   <img
