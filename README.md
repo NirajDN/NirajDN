@@ -264,8 +264,12 @@ scalable, user-focused web applications and reliable backend systems.
 </p>
 
 <!-- GitHub Streak -->
-![](https://nirzak-streak-stats.vercel.app/?user=NirajDN&theme=tokyonight&hide_border=false)<br/>
-
+<p align="center">
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=NirajDN&theme=tokyonight&hide_border=false"
+    alt="GitHub Streak"
+  />
+</p>
 <!-- <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=NirajDN&theme=tokyonight&type=png"
