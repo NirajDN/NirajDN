@@ -1,5 +1,6 @@
 
-![banner](https://github.com/user-attachments/assets/60a20d27-52af-4abb-88ba-d9b9e0477629)
+<!--![banner](https://github.com/user-attachments/assets/60a20d27-52af-4abb-88ba-d9b9e0477629) -->
+![My github banner](https://github.com/user-attachments/assets/5c2ffe3e-5247-49a0-b8e0-b8c80139678d)
 
    <!-- Header -->
 <h1 align="center">Hey 👋, I'm Niraj D Nillawar</h1>
