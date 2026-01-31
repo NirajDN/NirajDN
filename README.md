@@ -1,4 +1,3 @@
-
 <!--![banner](https://github.com/user-attachments/assets/60a20d27-52af-4abb-88ba-d9b9e0477629) -->
 ![My github banner](https://github.com/user-attachments/assets/5c2ffe3e-5247-49a0-b8e0-b8c80139678d)
 
@@ -353,12 +352,12 @@ Time Explorer is an interactive web app that lets users discover major historica
 ### 💻 My LeetCode Badges
 <!--[![badges](https://github.com/user-attachments/assets/2be5b1e0-2e0f-40b3-8587-63d74fa3ac99)](https://leetcode-badge-showcase.vercel.app/api?username=NirajDN&theme=dark&border=border&animated=true)-->
 <p align="center">
-  <img
-    src="https://leetcode-badge-showcase.vercel.app/api?username=NirajDN&theme=dark&border=border"
-    alt="LeetCode Badges"
-    width="50%"
-  />
+  <a href="https://leetcode.com/NirajDN">
+    <img src="api.svg" width="520" />
+  </a>
 </p>
+
+
 
 
 <!--  
