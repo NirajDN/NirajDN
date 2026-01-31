@@ -118,7 +118,7 @@ scalable, user-focused web applications and reliable backend systems.
   />
   &nbsp;&nbsp;
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NirajDN&layout=compact&theme=dracula"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NirajDN&layout=compact&theme=tokyonight&border_radius=10"
     width="47%"
   />
 </p>
