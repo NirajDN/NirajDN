@@ -1,3 +1,4 @@
+
 <!--![banner](https://github.com/user-attachments/assets/60a20d27-52af-4abb-88ba-d9b9e0477629) -->
 ![My github banner](https://github.com/user-attachments/assets/5c2ffe3e-5247-49a0-b8e0-b8c80139678d)
 
@@ -111,10 +112,17 @@ scalable, user-focused web applications and reliable backend systems.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NirajDN&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=NirajDN&show_icons=true&theme=tokyonight&border_radius=10"
+    width="47%"
+  />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajDN&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NirajDN&layout=compact&theme=dracula"
+    width="47%"
+  />
 </p>
+
 <!-- Row 1: Stats + Languages -->
 
 
