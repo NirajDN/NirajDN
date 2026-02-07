@@ -1,4 +1,3 @@
-
 <!--![banner](https://github.com/user-attachments/assets/60a20d27-52af-4abb-88ba-d9b9e0477629) -->
 ![My github banner](https://github.com/user-attachments/assets/5c2ffe3e-5247-49a0-b8e0-b8c80139678d)
 
@@ -287,7 +286,6 @@ scalable, user-focused web applications and reliable backend systems.
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=NirajDN&theme=tokyonight"
-    
   />
 </p> -->
 
@@ -353,8 +351,19 @@ Time Explorer is an interactive web app that lets users discover major historica
 - 🧠 I think in functions  
 - 🧩 Love solving puzzles and debugging weird bugs
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=programming" alt="Programming Quote" />
+  <img width="320" src="https://quotes-github-readme.vercel.app/api?type=programming" />
+  &nbsp;&nbsp;&nbsp;
+  <img width="420" src="https://github-contributor-stats.vercel.app/api?username=NirajDN&limit=5&theme=tokyonight" />
 </p>
+
+
+
+
+
+
+
+
+
 
 ---
 ### 💻 My LeetCode Badges
