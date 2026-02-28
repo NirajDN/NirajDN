@@ -370,7 +370,7 @@ Time Explorer is an interactive web app that lets users discover major historica
 <!--[![badges](https://github.com/user-attachments/assets/2be5b1e0-2e0f-40b3-8587-63d74fa3ac99)](https://leetcode-badge-showcase.vercel.app/api?username=NirajDN&theme=dark&border=border&animated=true)-->
 <p align="center">
   <a href="https://leetcode.com/NirajDN">
-    <img src="api(1).svg" width="520" />
+    <img src="api (1).svg" width="520" />
   </a>
 </p>
 
